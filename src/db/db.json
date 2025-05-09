@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "5072ec13-4db0-4ac2-a864-bcc4a4c75313",
+    "name": "Cecil Maggio",
+    "phone": "(802) 559-4451 x88469",
+    "email": "Edyth_Kunde38@gmail.com",
+    "job": "Senior Web Specialist"
+  },
+  {
+    "id": "33f4fd97-1f05-40f8-9aa6-bdca50fcf29a",
+    "name": "Verna Mann-Orn",
+    "phone": "840-463-4419 x0355",
+    "email": "Lillian_Hessel55@yahoo.com",
+    "job": "Global Solutions Executive"
+  },
+  {
+    "id": "9d7bf567-7f55-46b4-979f-adf258845953",
+    "name": "Josh Kertzmann Sr.",
+    "phone": "673.378.4060 x659",
+    "email": "Brisa50@gmail.com",
+    "job": "Customer Branding Developer"
+  },
+  {
+    "id": "adb0ce0e-8780-4a04-ba70-d76687e02e26",
+    "name": "Jenna Huel-Hammes",
+    "phone": "(550) 248-5603 x64943",
+    "email": "Eliane21@yahoo.com",
+    "job": "District Applications Strategist"
+  }
+]
